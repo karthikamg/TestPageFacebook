@@ -1,0 +1,147 @@
+button {
+    background-color: #0000CD;
+    border: none;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+.backgroundProps{
+	background-color: #0000CD;
+	width: 100%;
+	height: 4em;
+}
+.nav-content{
+	padding: 5px;
+	margin-left: 5%;
+}
+.nav-fbimg-size{
+	width: 3em;
+	height: 3em;
+}
+.nav-searchtext-margin{
+    margin-left: -9.5%;
+}
+.search-text-size{
+	width: 550px;
+}
+.nav-links-size{
+	width: 20px;
+	height: 10px;
+}
+.nav-link1-position{
+	margin-left: 50px;
+}
+.nav-link1-imagesize{
+	width: 25px;
+	height: 25px;
+}
+.image-text-space{
+	margin-left: 5px;
+}
+.nav-iconlink-position{
+	margin-left: -30px;
+}
+.nav-icon-topmargin{
+	margin-top: -1px;
+	margin-left: 180px;
+}
+.nav-icon-leftmargin{
+	margin-left: 5px;
+}
+.coverpage-position{
+	background-color: aliceblue;
+	width: 60%; 
+	height: 30em; 
+	margin-left: 4%;
+}
+.coverpage-image-size{
+    width: 100%;
+    height: 90%;
+}
+.dropdown-size{
+	margin-left: -100px;
+	margin-top: 15px;
+	padding: 10px;
+	height: 200px;
+	overflow: auto;
+	width: 420px;
+}
+.alignleft{
+	float: left;
+}
+.alignRight{
+	float: right;
+}
+.popup-header-size{
+	height: 20px;
+}
+.popupHeaderright{
+	margin-left: 130px;
+}
+.popupLineProp{
+	margin-top: 5px;
+}
+.popupDivisions{
+	height: 45px;
+	width: 375px;
+	margin-top: 5px;
+}
+.popupImagesize{
+	height: 35px;
+}
+.popupId{
+	display: inline-block;
+	width: 150px;
+	vertical-align: middle;
+}
+.popup-buttons{
+	margin-top: 5px;
+}
+.cursor-text{
+	cursor: text;
+}
+.cursor-pointer{
+	cursor: pointer;
+}
+.popupDivisions-user-lower{
+	margin-top: -15px;
+}
+.text-align-center{
+    text-align: center;
+}
+.scroll-height{
+	height: 180px;
+}
+.link-fonts{
+	font-size: 12px;
+}
+.chat-header-right{
+	margin-left: 60px;
+}
+.chat-size{
+	width: 440px;
+}
+.chat-division-margin{
+	margin-left: -18px;
+}
+.lock-dropdown-size{
+	height: 316px;
+}
+.globe-headerright-margin{
+	margin-left: 190px;
+}
+.globe-divisions-size{
+	width: 330px;
+}
+.lock-text-margin{
+	margin-left: 35px;
+}
+.user-button-position{
+	margin-top: -35px;
+	margin-left: 205px;
+}
