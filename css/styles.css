@@ -5,19 +5,78 @@ button {
 body{
 	margin: 0;
 	padding: 0;
+	background-color: lightgrey;
 }
 *{
 	margin: 0;
 	padding: 0;
 }
-<<<<<<< HEAD
+.bg-color-nav{
+	background-color: #3b5998;
+}
+.top-navbar-size{
+	width: 100%;
+	height: 40px;
+}
+.navbar-left-div{
+	width: 600px;
+	margin-left: 25px;
+	height: 40px;
+	padding: 6px;
+}
+.align-left{
+	float: left;
+}
+.align-right{
+	float: right;
+}
+.serchtext-size{
+	width: 550px;
+	margin-left: 5px;
+	height: 30px;
+}
+.searchicon-position{
+	float: right;
+	width: 50px;
+	height: 30px;
+	background-color: lightgrey;
+}
+.navbar-right-div{
+	width: 680px;
+	margin-top: -34px;
+	height: 30px;
+	text-align: center;
+}
+.navbar-buttonicon-size{
+	width: 100px;
+	border: none;
+	height: 30px;
+}
+.nav-link1-imagesize{
+	width: 25px;
+	height: 25px;
+	padding-bottom: 5px;
+}
+.image-text-space{
+	margin-left: 5px;
+}
+a:hover{
+	border: 1px solid lightgrey;
+}
+.btn-hover:hover{
+	background-color: #2f436d;
+	color: white;
+}
 .button-size{
 	height: 35px;
 }
-=======
->>>>>>> 16ddeb0803f6471651046a2a552db81302943c98
+.searchicon-position{
+	float: right;
+	margin-top: -34px;
+	width: 8%;
+	background-color: lightgrey;
+}
 .backgroundProps{
-	background-color: #0000CD;
 	width: 100%;
 	height: 4em;
 }
@@ -31,6 +90,8 @@ body{
 }
 .nav-searchtext-margin{
     margin-left: -9.5%;
+    float: left;
+    width: 550px;
 }
 .search-text-size{
 	width: 550px;
@@ -53,23 +114,17 @@ body{
 	margin-left: -30px;
 }
 .nav-icon-topmargin{
-	margin-top: -1px;
-	margin-left: 180px;
+	margin-top: -20px;
+	margin-left: 220px;
 }
 .nav-icon-leftmargin{
 	margin-left: 5px;
 }
 .coverpage-position{
-<<<<<<< HEAD
+	overflow: hidden;
 	background-color: white;
 	width: 100%; 
 	height: 30em; 
-=======
-	background-color: aliceblue;
-	width: 60%; 
-	height: 30em; 
-	margin-left: 4%;
->>>>>>> 16ddeb0803f6471651046a2a552db81302943c98
 }
 .coverpage-image-size{
     width: 100%;
@@ -157,7 +212,6 @@ body{
 	margin-top: -35px;
 	margin-left: 205px;
 }
-<<<<<<< HEAD
 .profilepic-lower-size{
 	list-style: none;
 	margin-top: 10px;
@@ -180,7 +234,7 @@ body{
 	padding: 12px;
 	border-left-width: 1px;
 }
-.friendlist-size{
+.timeline-size{
 	background-color: white;
 	width: 23%;
 	margin: 20px 68px;
@@ -191,5 +245,13 @@ body{
 ul li a:hover{
 	background-color: aliceblue;
 }
-=======
->>>>>>> 16ddeb0803f6471651046a2a552db81302943c98
+.cameraicon-div{
+	width: 50px;
+	height: 50px;
+}
+#camera-icon{
+	background-image: url("../images/icons.png");
+	background-repeat: no-repeat;
+	width: 32px;
+	height: 32px;
+}
