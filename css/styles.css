@@ -10,6 +10,9 @@ body{
 	margin: 0;
 	padding: 0;
 }
+.button-size{
+	height: 35px;
+}
 .backgroundProps{
 	background-color: #0000CD;
 	width: 100%;
