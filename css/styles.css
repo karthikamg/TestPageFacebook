@@ -75,9 +75,10 @@ a:hover{
 	width: 8%;
 	background-color: lightgrey;
 }
-#backgroundProps{
+.backgroundProps{
 	width: 1400px;
 	height: 4em;
+	max-width: 1400px;;
 }
 /*@media screen and (max-width: 1069px){
 	.backgroundProps{
@@ -254,7 +255,8 @@ a:hover{
 }
 .timeline-size{
 	background-color: lightgrey;
-	width: 16%;
+	width: 220px;
+	max-width: 220px;
 	height: auto;
 	position: fixed;
 	margin-top: 60px;
@@ -301,6 +303,7 @@ ul li a:hover{
 	padding: 8px;	
 }
 .profile-data-size{
+	width: 320px;
 	max-width: 320px;
 }
 .chat-image-size{
@@ -337,20 +340,22 @@ ul li a:hover{
 }
 .status-expand{
 	height: auto;
-	width: 100%;
+	width: 535px;
 	border-style: none;
 	padding: 4px;
-	max-width: : 100%;
+	max-width: : 495px;
 }
 .timeline-status-size{
-	width: 100%;
+	width: 535px;
+	max-width: 535px;
 	height: auto;
 }
-.postsite-size{
-	width: 100%;
+#postsite-size{
+	width: 535px;
+	max-width: 535px;
 	height: 100px;
-	background-color: white;
 	margin-top: 2px;
+	background-color: white;
 }
 .bgcolor-white{
 	background-color: white;

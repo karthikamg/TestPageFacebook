@@ -1,0 +1,25 @@
+// @mixins clearfix{
+// 	&:before,&:after
+// }
+
+@import 'variables';
+
+article{
+	ul{
+		color: $color-blue;
+	}
+	li{
+		padding: 5px;
+		list-style-type: none;
+	}
+	a{
+		colour: $color-red;
+	}
+}
+
+@mixin name($radius){
+	border-radius:  5px;
+}
+.sample{
+		@include name(5px);
+}

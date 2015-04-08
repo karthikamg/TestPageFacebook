@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAOC,UAAE;EACD,KAAK,ECPM,IAAI;ADShB,UAAE;EACD,OAAO,EAAE,GAAG;EACZ,eAAe,EAAE,IAAI;AAEtB,SAAC;EACA,MAAM,ECZI,GAAG;;ADmBf,OAAO;EAFN,aAAa,EAAG,GAAG",
+"sources": ["styles.scss","_variables.scss"],
+"names": [],
+"file": "outputt.css"
+}
